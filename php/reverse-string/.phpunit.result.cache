@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"ReverseStringTest::testEmptyString":0.003,"ReverseStringTest::testWord":0,"ReverseStringTest::testCapitalizedWord":0.001,"ReverseStringTest::testSentenceWithPunctuation":0,"ReverseStringTest::testPalindrome":0,"ReverseStringTest::testEvenSizedWord":0}}
