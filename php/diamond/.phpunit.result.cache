@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"DiamondTest::testDegenerateCaseWithASingleARow":0,"DiamondTest::testDegenerateCaseWithNoRowContaining3DistinctGroupsOfSpaces":0,"DiamondTest::testSmallestNonDegenerateCaseWithOddDiamondSideLength":0,"DiamondTest::testSmallestNonDegenerateCaseWithEvenDiamondSideLength":0,"DiamondTest::testLargestPossibleDiamond":0.001}}

@@ -27,4 +27,5 @@ declare(strict_types=1);
 function findFewestCoins(array $coins, int $amount): array
 {
     sort($coins);
+    
 }

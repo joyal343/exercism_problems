@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SeriesTest::testOverlyLongSlice":7,"SeriesTest::testOverlyShortSlice":7},"times":{"SeriesTest::testSlicesOfOne":0.001,"SeriesTest::testSlicesOfTwo":0,"SeriesTest::testSlicesOfThree":0,"SeriesTest::testSlicesOfFour":0,"SeriesTest::testSlicesOfFive":0,"SeriesTest::testOverlyLongSlice":0,"SeriesTest::testOverlyShortSlice":0}}
